@@ -395,6 +395,12 @@ const slider = function () {
 };
 slider();
 
+
+
+
+
+
+
 ///////////////////////////////////////
 ///////////////////////////////////////
 // Event Propagation in Practice
